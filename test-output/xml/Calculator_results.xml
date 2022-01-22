@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="10.859">
+           time="10.505">
     <properties></properties>
 
 
 
             <testcase
                 name="testCalculator"
-                time="10.859"
+                time="10.505"
                 classname="Calculator">
             </testcase>
 </testsuite>
