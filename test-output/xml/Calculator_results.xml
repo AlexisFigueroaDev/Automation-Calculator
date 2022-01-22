@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Calculator"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.859">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCalculator"
+                time="10.859"
+                classname="Calculator">
+            </testcase>
+</testsuite>
