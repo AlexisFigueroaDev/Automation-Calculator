@@ -20,6 +20,7 @@ public class Calculator {
         capabilities.setCapability("platformVersion","11");
         capabilities.setCapability("appActivity","com.android.calculator2.Calculator");
         capabilities.setCapability("appPackage","com.google.android.calculator");
+        capabilities.setCapability("deviceName","R58R50FYQHX");
 
         AndroidDriver<AndroidElement> driver = new AndroidDriver(new URL("http://localhost:4723/wd/hub"), capabilities);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
